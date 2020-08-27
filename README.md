@@ -37,3 +37,11 @@ Java Solutions by [Qaif Shaikh](https://www.linkedin.com/in/qaifamz)
 
 * [addTwoDigits](The%20Core/01%20Intro%20Gates/01%20addTwoDigits.java)
 * [largestNumber](The%20Core/01%20Intro%20Gates/02%20largestNumber.java)
+
+
+### Interview Practice
+
+#### 1. Arrays
+
+* [firstDuplicate](Interview%20Practice/01%20Arrays/01%20firstDuplicate.java)
+* [firstNotRepeatingCharacter](Interview%20Practice/01%20Arrays/02%20firstNotRepeatingCharacter.java)
