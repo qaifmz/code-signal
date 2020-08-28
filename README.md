@@ -45,3 +45,9 @@ Java Solutions by [Qaif Shaikh](https://www.linkedin.com/in/qaifamz)
 
 * [firstDuplicate](Interview%20Practice/01%20Arrays/01%20firstDuplicate.java)
 * [firstNotRepeatingCharacter](Interview%20Practice/01%20Arrays/02%20firstNotRepeatingCharacter.java)
+* [rotateImage](Interview%20Practice/01%20Arrays/03%20rotateImage.java)
+* [sudoku2](Interview%20Practice/01%20Arrays/04%20sudoku2.java)
+* [isCryptSolution](Interview%20Practice/01%20Arrays/05%20isCryptSolution.java)
+
+#### 2. Linked Lists
+* [mergeTwoLinkedLists](Interview%20Practice/02%20Linked%20Lists/04%20mergeTwoLinkedLists.java)
