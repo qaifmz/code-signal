@@ -1,5 +1,5 @@
 # Code-Signal Solutions
-Java Solutions by [Qaif Shaikh](https://www.linkedin.com/in/qaifamz)
+Collection of Java Solutions by [Qaif Shaikh](https://www.linkedin.com/in/qaifamz)
 
 ## Contents
 
