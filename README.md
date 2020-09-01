@@ -51,3 +51,7 @@ Collection of Java Solutions by [Qaif Shaikh](https://www.linkedin.com/in/qaifam
 
 #### 2. Linked Lists
 * [mergeTwoLinkedLists](Interview%20Practice/02%20Linked%20Lists/04%20mergeTwoLinkedLists.java)
+* [removeKFromList](Interview%20Practice/02%20Linked%20Lists/05%20removeKFromList.java)
+* [isListPalindrome](Interview%20Practice/02%20Linked%20Lists/06%20isListPalindrome.java)
+* [addTwoHugeNumbers](Interview%20Practice/02%20Linked%20Lists/07%20addTwoHugeNumbers.java)
+* [reverseNodesInKGroups](Interview%20Practice/02%20Linked%20Lists/08%20reverseNodesInKGroups.java)
